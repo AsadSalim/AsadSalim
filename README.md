@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsadSalim
-- 👀 I’m interested in Data Analysis and Machine Learning 
+- 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Analysis 
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ... Reach out to me on twitter @asaad7salem
 
 <!---
